@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: max-radin.github.io
+Token: 0dc389128c0ca2c817c7e603a5c6299ee503b6ae2b56e23597fb7c63534b3598
